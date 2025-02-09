@@ -119,7 +119,7 @@ No API keys or additional configuration required! The application uses the Open 
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [License](License) file for details.
+This project is licensed under the MIT License - see the [License](License.md) file for details.
 
 ## 🙏 Acknowledgments
 
